@@ -33,9 +33,10 @@ void main()
 void printMenu()
 {
     system("cls");
-    printf("Choose an option...or else\n1) Display Records\t2) Add Record\t3) Modify Record\t4) Delete Record\t0)Quit\n");
+    printf("Choose an option\n1) Display Records\t2) Add Record\t3) Modify Record\t4) Delete Record\t0)Quit\n");
 }
 
+// Fix age issues and get current year
 void getInput(Cat catRecords[ARR_SIZE], int* elements)
 {
     int choice = 1;

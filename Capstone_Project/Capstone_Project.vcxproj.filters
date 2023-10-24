@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RecordProgram.cpp">
+    <ClCompile Include="CatRecords.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
