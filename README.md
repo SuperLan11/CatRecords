@@ -1,4 +1,5 @@
-# CatRecords: The final project for the Introduction to Computation and Programming Course
+# CatRecords
+## The final project for the Introduction to Computation and Programming Course ##
 The CatRecords program allows the user to add, modify, and delete records from a database-like system. The program will check for invalid input and resize the record table to fit the given data appropriately.
 
 To download the project files, click the Code button, click Download ZIP, extract the folder. Alternatively, create an empty folder for the project, click Code, and copy the HTTPS clone url. Then follow the given steps for your IDE.
