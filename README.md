@@ -7,9 +7,9 @@ To clone in Visual Studio, go to File -> Clone Repository, enter the URL, set th
  
 To clone in VS Code, Type ">clone" in the top search bar, select Git: Clone, select the repository, and choose the empty folder. 
 
-To run in Visual Studio, open the project solution, open RecordProgram.cpp, and go to Debug -> Start Without Debugging.
+To run in Visual Studio, open the project solution, open CatRecords.cpp, and go to Debug -> Start Without Debugging.
 
 To run in VS Code, first make sure you have the C/C++ extension installed and install if not. 
 Then open Developer Command Prompt, navigate to the Capstone_Project directory in the project folder, 
-enter "code .", open RecordProgram.cpp, click the drop down next to the gear in the top right, and run the file. 
+enter "code .", open CatRecords.cpp, click the drop down next to the gear in the top right, and run the file. 
 
